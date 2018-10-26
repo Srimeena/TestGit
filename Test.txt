@@ -1,1 +1,2 @@
-This is my first project with Git
+This is my first project with Git and 
+I have succesfully created a repository and made changes required.
